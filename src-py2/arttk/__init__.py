@@ -3,7 +3,7 @@ import os
 import shutil
 import sys
 
-ARTTK_CFG_PATH = os.path.expanduser('~/.config/arttk')
+ARTTK_CFG_PATH = os.path.expanduser('~/.config/arttk2')
 TK_PATH = os.path.join(ARTTK_CFG_PATH, '_arttk')
 ARTTK_CFG_FILE = os.path.join(ARTTK_CFG_PATH, 'arttk.json')
 
